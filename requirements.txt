@@ -49,3 +49,10 @@ threadpoolctl==3.2.0
 tqdm==4.66.1
 urllib3==2.0.7
 Werkzeug==2.3.7
+Flask
+moviepy
+googletrans==4.0.0-rc1
+sklearn-crfsuite
+qrcode
+pillow
+conllu
